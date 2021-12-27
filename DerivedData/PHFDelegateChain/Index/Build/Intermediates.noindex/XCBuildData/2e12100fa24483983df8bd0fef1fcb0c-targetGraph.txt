@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-Pods-PHFDelegateChain in Pods, no dependencies
-PHFDelegateChain in PHFDelegateChain, depends on:
-Pods-PHFDelegateChain in Pods (implicit dependency via file 'Pods_PHFDelegateChain.framework' in build phase 'Link Binary')
