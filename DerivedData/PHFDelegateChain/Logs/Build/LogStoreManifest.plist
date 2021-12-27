@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>739D66E9-4354-49C4-B360-5124955C8315</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>739D66E9-4354-49C4-B360-5124955C8315.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PHFDelegateChain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PHFDelegateChain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PHFDelegateChain</string>
+			<key>timeStartedRecording</key>
+			<real>662289020.62845004</real>
+			<key>timeStoppedRecording</key>
+			<real>662289021.82982302</real>
+			<key>title</key>
+			<string>Build PHFDelegateChain</string>
+			<key>uniqueIdentifier</key>
+			<string>739D66E9-4354-49C4-B360-5124955C8315</string>
+		</dict>
+		<key>8D1A1239-88BB-49E8-8D5F-9675EB41D31F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D1A1239-88BB-49E8-8D5F-9675EB41D31F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PHFDelegateChain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PHFDelegateChain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PHFDelegateChain</string>
+			<key>timeStartedRecording</key>
+			<real>662289058.84100401</real>
+			<key>timeStoppedRecording</key>
+			<real>662289061.81330597</real>
+			<key>title</key>
+			<string>Build PHFDelegateChain</string>
+			<key>uniqueIdentifier</key>
+			<string>8D1A1239-88BB-49E8-8D5F-9675EB41D31F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

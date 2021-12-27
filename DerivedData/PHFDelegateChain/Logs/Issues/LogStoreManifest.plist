@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7174FD64-C7BE-40E7-9CD6-8F8414D3B179</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>7174FD64-C7BE-40E7-9CD6-8F8414D3B179.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-PHFDelegateChain-bpylrsghrtowktaqnuhfibqsodtq</string>
+			<key>timeStartedRecording</key>
+			<real>662289059.11947</real>
+			<key>timeStoppedRecording</key>
+			<real>662289061.28350902</real>
+			<key>title</key>
+			<string>Build target Pods-PHFDelegateChain</string>
+			<key>uniqueIdentifier</key>
+			<string>7174FD64-C7BE-40E7-9CD6-8F8414D3B179</string>
+		</dict>
+		<key>FD3F8676-B120-466C-84F1-B504A9630D03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.dynamic</string>
+			<key>fileName</key>
+			<string>FD3F8676-B120-466C-84F1-B504A9630D03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>PHFDelegateChain-gmpernbbooeygscpfldlierqlouv</string>
+			<key>timeStartedRecording</key>
+			<real>662289061.28417802</real>
+			<key>timeStoppedRecording</key>
+			<real>662289061.80503201</real>
+			<key>title</key>
+			<string>Build target PHFDelegateChain</string>
+			<key>uniqueIdentifier</key>
+			<string>FD3F8676-B120-466C-84F1-B504A9630D03</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
